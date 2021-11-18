@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+table {
+  width: 100%;
+  padding: 0px 100px;
+}
+th, td {
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+.btn-div {
+  width: 100%;
+  padding: 20px 100px 12px 100px;
+  text-align: left;
+}
+button {
+  width: 120px;
+  height: 40px;
+  border-radius: 15px;
+  margin-right: 10px;
+}
+
+.custom-input {
+  height: 25px;
+  padding: 5px;
+  margin: 0px 0px 20px 15px;
+}
